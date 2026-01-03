@@ -16,7 +16,7 @@ You only need non-paired underwater images and high-quality images to complete m
 
 #### Testing
 
-We have already provided the [trained weights](通过网盘分享的文件：model_latest.pth.tar
+We have already provided the **trained weights** (通过网盘分享的文件：model_latest.pth.tar
 链接: https://pan.baidu.com/s/1roqyOaHOnn1aJPKfhAc3-Q 提取码: 8kib), so you can directly use `evaluate.py` to test your own data. 
 
 ### Citation
